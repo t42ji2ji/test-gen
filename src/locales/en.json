@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "currency": "NT$ {{amount}}",
+    "quantity": "Quantity",
+    "orderInfo": "Order Info",
+    "productAmount": "Product Amount",
+    "tax": "Tax",
+    "total": "Total",
+    "buyNow": "Buy Now",
+    "processing": "Processing...",
+    "paymentSuccess": "Payment successful! Transaction hash: {{txHash}}",
+    "paymentError": "Payment failed: {{error}}",
+    "poweredBy": "Powered by Kryptogo"
+  },
+  "merchant": {
+    "address": "地址",
+    "email": "電子郵件",
+    "phone": "電話",
+    "website": "網站"
+  },
+  "edit": {
+    "copyUrl": "Copy URL",
+    "urlCopied": "URL copied to clipboard",
+    "merchantInfo": "Merchant Info",
+    "merchantName": "Merchant Name",
+    "logo": "Logo URL",
+    "email": "Email",
+    "phone": "Phone",
+    "website": "Website",
+    "accentColor": "Accent Color",
+    "productInfo": "Product Info",
+    "productName": "Product Name",
+    "productImage": "Product Image",
+    "productDescription": "Product Description",
+    "productPrice": "Product Price",
+    "save": "Save",
+    "preview": "Preview",
+    "clientId": "Client ID",
+    "productTax": "Product Tax"
+  },
+  "success": {
+    "title": "Payment Successful!",
+    "message": "Your payment has been processed successfully.",
+    "amount": "Payment Amount",
+    "transactionHash": "Transaction Hash",
+    "thanksMessage": "Thank you for your purchase from {{merchant}}!",
+    "backToHome": "Back to Home"
+  }
+}
